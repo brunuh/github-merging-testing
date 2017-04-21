@@ -10,3 +10,5 @@ nineth commit
 tenth commit
 eleventh commit
 __> conflict resolution from PR #4
+__> another conflict because I changed this on master
+just something added on master
