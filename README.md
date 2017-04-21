@@ -7,3 +7,6 @@ sixth commit
 seventh commit
 eigth commit
 nineth commit
+tenth commit
+eleventh commit
+__> conflict resolution from PR #4
